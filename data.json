@@ -1,0 +1,1516 @@
+{
+ "deps": {
+  "Amazonas": [
+   -6.23,
+   -77.87
+  ],
+  "Áncash": [
+   -9.53,
+   -77.53
+  ],
+  "Apurímac": [
+   -13.64,
+   -72.88
+  ],
+  "Arequipa": [
+   -16.4,
+   -71.54
+  ],
+  "Ayacucho": [
+   -13.16,
+   -74.22
+  ],
+  "Cajamarca": [
+   -7.16,
+   -78.51
+  ],
+  "Callao": [
+   -12.05,
+   -77.14
+  ],
+  "Cusco": [
+   -13.53,
+   -71.97
+  ],
+  "Huancavelica": [
+   -12.79,
+   -74.98
+  ],
+  "Huánuco": [
+   -9.93,
+   -76.24
+  ],
+  "Ica": [
+   -14.07,
+   -75.73
+  ],
+  "Junín": [
+   -12.07,
+   -75.21
+  ],
+  "La Libertad": [
+   -8.11,
+   -79.03
+  ],
+  "Lambayeque": [
+   -6.77,
+   -79.84
+  ],
+  "Lima": [
+   -12.05,
+   -77.04
+  ],
+  "Loreto": [
+   -3.75,
+   -73.25
+  ],
+  "Madre de Dios": [
+   -12.59,
+   -69.19
+  ],
+  "Moquegua": [
+   -17.19,
+   -70.93
+  ],
+  "Pasco": [
+   -10.68,
+   -76.26
+  ],
+  "Piura": [
+   -5.19,
+   -80.63
+  ],
+  "Puno": [
+   -15.84,
+   -70.02
+  ],
+  "San Martín": [
+   -6.03,
+   -76.97
+  ],
+  "Tacna": [
+   -18.01,
+   -70.25
+  ],
+  "Tumbes": [
+   -3.57,
+   -80.45
+  ],
+  "Ucayali": [
+   -8.38,
+   -74.55
+  ]
+ },
+ "T": {
+  "anp": "Áreas Naturales Protegidas",
+  "esp": "Flora y fauna",
+  "rec": "Recursos naturales",
+  "eco": "Ecosistemas",
+  "tur": "Ecoturismo",
+  "ley": "Normativa",
+  "ins": "Instituciones",
+  "pro": "Problemas ambientales"
+ },
+ "IC": {
+  "anp": "🏞️",
+  "esp": "🦜",
+  "rec": "💧",
+  "eco": "🌳",
+  "tur": "🥾",
+  "ley": "⚖️",
+  "ins": "🏛️",
+  "pro": "⚠️"
+ },
+ "items": [
+  {
+   "t": "anp",
+   "n": "Parque Nacional del Manu",
+   "d": [
+    "Cusco",
+    "Madre de Dios"
+   ],
+   "ll": [
+    -11.9,
+    -71.9
+   ],
+   "s": "Uno de los espacios de mayor biodiversidad del planeta; abarca desde altos Andes hasta selva baja. Reconocido Reserva de Biosfera y Patrimonio Mundial (UNESCO).",
+   "f": {
+    "Categoría": "Parque Nacional",
+    "Creación": "1973 (D.S. 644-73-AG)",
+    "Superficie": "≈1,7 millones ha",
+    "Administra": "SERNANP",
+    "Actividades": "Investigación y turismo regulado; el uso extractivo no está permitido"
+   },
+   "src": [
+    [
+     "SERNANP",
+     "https://www.gob.pe/sernanp"
+    ]
+   ]
+  },
+  {
+   "t": "anp",
+   "n": "Parque Nacional Huascarán",
+   "d": [
+    "Áncash"
+   ],
+   "ll": [
+    -9.4,
+    -77.6
+   ],
+   "s": "Protege la Cordillera Blanca, con glaciares tropicales, lagunas y bosques de Polylepis. Patrimonio Mundial (UNESCO).",
+   "f": {
+    "Categoría": "Parque Nacional",
+    "Creación": "1975 (D.S. 0622-75-AG)",
+    "Superficie": "≈340 000 ha",
+    "Administra": "SERNANP",
+    "Actividades": "Trekking, montañismo y turismo con reglas del plan de uso"
+   },
+   "src": [
+    [
+     "SERNANP",
+     "https://www.gob.pe/sernanp"
+    ],
+    [
+     "SENAMHI",
+     "https://www.senamhi.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "anp",
+   "n": "Parque Nacional Cutervo",
+   "d": [
+    "Cajamarca"
+   ],
+   "ll": [
+    -6.15,
+    -78.7
+   ],
+   "s": "Primera área natural protegida del Perú; bosques nubosos y cavernas con guácharos.",
+   "f": {
+    "Categoría": "Parque Nacional",
+    "Creación": "1961 (Ley 13694)",
+    "Administra": "SERNANP"
+   },
+   "src": [
+    [
+     "SERNANP",
+     "https://www.gob.pe/sernanp"
+    ]
+   ]
+  },
+  {
+   "t": "anp",
+   "n": "Parque Nacional Bahuaja-Sonene",
+   "d": [
+    "Madre de Dios",
+    "Puno"
+   ],
+   "ll": [
+    -13.2,
+    -69.5
+   ],
+   "s": "Protege sabanas húmedas y bosques amazónicos del suroriente.",
+   "f": {
+    "Categoría": "Parque Nacional",
+    "Creación": "1996; ampliado en 2000",
+    "Administra": "SERNANP"
+   },
+   "src": [
+    [
+     "SERNANP",
+     "https://www.gob.pe/sernanp"
+    ]
+   ]
+  },
+  {
+   "t": "anp",
+   "n": "Reserva Nacional de Paracas",
+   "d": [
+    "Ica"
+   ],
+   "ll": [
+    -13.9,
+    -76.2
+   ],
+   "s": "Ecosistema marino-costero y desierto sobre la Corriente de Humboldt, con aves marinas y lobos marinos.",
+   "f": {
+    "Categoría": "Reserva Nacional",
+    "Creación": "1975 (D.S. 1281-75-AG)",
+    "Administra": "SERNANP"
+   },
+   "src": [
+    [
+     "SERNANP",
+     "https://www.gob.pe/sernanp"
+    ],
+    [
+     "IMARPE",
+     "https://www.imarpe.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "anp",
+   "n": "Reserva Nacional Pacaya Samiria",
+   "d": [
+    "Loreto"
+   ],
+   "ll": [
+    -5.2,
+    -74.6
+   ],
+   "s": "Una de las mayores reservas de bosque inundable amazónico; fauna acuática emblemática.",
+   "f": {
+    "Categoría": "Reserva Nacional",
+    "Creación": "1982",
+    "Administra": "SERNANP"
+   },
+   "src": [
+    [
+     "SERNANP",
+     "https://www.gob.pe/sernanp"
+    ],
+    [
+     "IIAP",
+     "https://www.iiap.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "anp",
+   "n": "Reserva Nacional Tambopata",
+   "d": [
+    "Madre de Dios"
+   ],
+   "ll": [
+    -12.9,
+    -69.4
+   ],
+   "s": "Bosque amazónico con alta diversidad de aves y mariposas; zona de amortiguamiento con turismo.",
+   "f": {
+    "Categoría": "Reserva Nacional",
+    "Creación": "2000 (D.S. 048-2000-AG)",
+    "Administra": "SERNANP"
+   },
+   "src": [
+    [
+     "SERNANP",
+     "https://www.gob.pe/sernanp"
+    ]
+   ]
+  },
+  {
+   "t": "anp",
+   "n": "Santuario Histórico de Machu Picchu",
+   "d": [
+    "Cusco"
+   ],
+   "ll": [
+    -13.16,
+    -72.55
+   ],
+   "s": "Combina patrimonio cultural y natural: bosques nublados, orquídeas y especies como el oso andino.",
+   "f": {
+    "Categoría": "Santuario Histórico",
+    "Creación": "1981 (D.S. 001-81-AA)",
+    "Administra": "SERNANP (con el Ministerio de Cultura)",
+    "Actividades": "Visita regulada con cupos"
+   },
+   "src": [
+    [
+     "SERNANP",
+     "https://www.gob.pe/sernanp"
+    ]
+   ]
+  },
+  {
+   "t": "anp",
+   "n": "Reserva Nacional del Titicaca",
+   "d": [
+    "Puno"
+   ],
+   "ll": [
+    -15.7,
+    -69.9
+   ],
+   "s": "Protege totorales y avifauna del lago Titicaca.",
+   "f": {
+    "Categoría": "Reserva Nacional",
+    "Creación": "1978",
+    "Administra": "SERNANP"
+   },
+   "src": [
+    [
+     "SERNANP",
+     "https://www.gob.pe/sernanp"
+    ],
+    [
+     "ANA",
+     "https://www.gob.pe/ana"
+    ]
+   ]
+  },
+  {
+   "t": "anp",
+   "n": "Reserva Nacional Lomas de Lachay",
+   "d": [
+    "Lima"
+   ],
+   "ll": [
+    -11.37,
+    -77.37
+   ],
+   "s": "Lomas costeras: vegetación estacional alimentada por la neblina del desierto.",
+   "f": {
+    "Categoría": "Reserva Nacional",
+    "Creación": "1977",
+    "Administra": "SERNANP"
+   },
+   "src": [
+    [
+     "SERNANP",
+     "https://www.gob.pe/sernanp"
+    ]
+   ]
+  },
+  {
+   "t": "esp",
+   "n": "Mono choro de cola amarilla (Lagothrix flavicauda)",
+   "d": [
+    "Amazonas",
+    "San Martín"
+   ],
+   "ll": [
+    -6.2,
+    -77.5
+   ],
+   "s": "Primate endémico del Perú de bosques montanos.",
+   "f": {
+    "Tipo": "Fauna – mamífero",
+    "Estado": "En Peligro Crítico (UICN)",
+    "Hábitat": "Bosque montano nublado",
+    "Amenazas": "Pérdida de hábitat y caza"
+   },
+   "src": [
+    [
+     "Lista Roja UICN",
+     "https://www.iucnredlist.org"
+    ],
+    [
+     "SERFOR",
+     "https://www.gob.pe/serfor"
+    ]
+   ]
+  },
+  {
+   "t": "esp",
+   "n": "Oso andino (Tremarctos ornatus)",
+   "d": [
+    "Cusco",
+    "Cajamarca",
+    "Áncash",
+    "Puno"
+   ],
+   "ll": [
+    -13.1,
+    -72.5
+   ],
+   "s": "Único oso de Sudamérica; dispersor de semillas.",
+   "f": {
+    "Tipo": "Fauna – mamífero",
+    "Estado": "Vulnerable (UICN)",
+    "Hábitat": "Bosques montanos y pajonales",
+    "Amenazas": "Fragmentación del hábitat, conflicto con humanos"
+   },
+   "src": [
+    [
+     "Lista Roja UICN",
+     "https://www.iucnredlist.org"
+    ],
+    [
+     "SERFOR",
+     "https://www.gob.pe/serfor"
+    ]
+   ]
+  },
+  {
+   "t": "esp",
+   "n": "Gallito de las rocas (Rupicola peruvianus)",
+   "d": [
+    "Cusco",
+    "Amazonas",
+    "San Martín",
+    "Huánuco"
+   ],
+   "ll": [
+    -13,
+    -71.4
+   ],
+   "s": "Ave nacional del Perú; los machos realizan exhibiciones colectivas.",
+   "f": {
+    "Tipo": "Fauna – ave",
+    "Estado": "Preocupación Menor (UICN)",
+    "Hábitat": "Bosques nublados con quebradas rocosas"
+   },
+   "src": [
+    [
+     "Lista Roja UICN",
+     "https://www.iucnredlist.org"
+    ]
+   ]
+  },
+  {
+   "t": "esp",
+   "n": "Vicuña (Vicugna vicugna)",
+   "d": [
+    "Ayacucho",
+    "Puno",
+    "Arequipa",
+    "Cusco",
+    "Huancavelica"
+   ],
+   "ll": [
+    -14.9,
+    -74.9
+   ],
+   "s": "Camélido silvestre de los Andes, símbolo nacional; su fibra es de alto valor.",
+   "f": {
+    "Tipo": "Fauna – mamífero",
+    "Estado": "Preocupación Menor (UICN)",
+    "Hábitat": "Puna",
+    "Medidas": "Manejo comunitario y normativa de SERFOR"
+   },
+   "src": [
+    [
+     "Lista Roja UICN",
+     "https://www.iucnredlist.org"
+    ],
+    [
+     "SERFOR",
+     "https://www.gob.pe/serfor"
+    ]
+   ]
+  },
+  {
+   "t": "esp",
+   "n": "Orquídea zapatito de Kovach (Phragmipedium kovachii)",
+   "d": [
+    "San Martín",
+    "Amazonas"
+   ],
+   "ll": [
+    -6.5,
+    -77
+   ],
+   "s": "Orquídea endémica descrita en 2002. Estado: por confirmar en la lista UICN y la norma nacional.",
+   "f": {
+    "Tipo": "Flora – orquídea",
+    "Estado": "Por confirmar en la fuente oficial"
+   },
+   "src": [
+    [
+     "SERFOR",
+     "https://www.gob.pe/serfor"
+    ],
+    [
+     "Lista Roja UICN",
+     "https://www.iucnredlist.org"
+    ]
+   ]
+  },
+  {
+   "t": "rec",
+   "n": "Cuenca del Amazonas",
+   "d": [
+    "Loreto",
+    "Ucayali",
+    "Madre de Dios",
+    "San Martín"
+   ],
+   "ll": [
+    -4,
+    -73.5
+   ],
+   "s": "Vertiente que concentra la mayor parte del caudal de ríos del Perú.",
+   "f": {
+    "Clase": "Hídrico",
+    "Gestión": "ANA y Consejos de Cuenca"
+   },
+   "src": [
+    [
+     "ANA",
+     "https://www.gob.pe/ana"
+    ]
+   ]
+  },
+  {
+   "t": "rec",
+   "n": "Glaciares de la Cordillera Blanca",
+   "d": [
+    "Áncash"
+   ],
+   "ll": [
+    -9.5,
+    -77.4
+   ],
+   "s": "Reserva de agua dulce para valles y costa; en retroceso.",
+   "f": {
+    "Clase": "Hídrico",
+    "Amenaza": "Cambio climático",
+    "Gestión": "ANA – inventario de glaciares"
+   },
+   "src": [
+    [
+     "ANA",
+     "https://www.gob.pe/ana"
+    ],
+    [
+     "SENAMHI",
+     "https://www.senamhi.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "rec",
+   "n": "Bosques amazónicos",
+   "d": [
+    "Loreto",
+    "Ucayali",
+    "Madre de Dios",
+    "San Martín"
+   ],
+   "ll": [
+    -7.5,
+    -75
+   ],
+   "s": "Mayor cobertura forestal del país; madera, productos no maderables y servicios ambientales.",
+   "f": {
+    "Clase": "Forestal",
+    "Gestión": "SERFOR, gobiernos regionales"
+   },
+   "src": [
+    [
+     "SERFOR",
+     "https://www.gob.pe/serfor"
+    ],
+    [
+     "Geobosques",
+     "https://geobosques.minam.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "rec",
+   "n": "Recursos minerales",
+   "d": [],
+   "ll": [
+    -12,
+    -75.5
+   ],
+   "s": "Perú es un país minero. Distribución y concesiones se consultan en GEOCATMIN (INGEMMET); aquí no se incluyen cifras de producción por falta de verificación.",
+   "f": {
+    "Clase": "Mineral",
+    "Gestión": "INGEMMET, OEFA, SENACE"
+   },
+   "src": [
+    [
+     "INGEMMET",
+     "https://www.gob.pe/ingemmet"
+    ],
+    [
+     "OEFA",
+     "https://www.gob.pe/oefa"
+    ]
+   ]
+  },
+  {
+   "t": "rec",
+   "n": "Complejo hidroeléctrico del Mantaro",
+   "d": [
+    "Huancavelica",
+    "Junín"
+   ],
+   "ll": [
+    -12.3,
+    -74.8
+   ],
+   "s": "Principal conjunto de centrales hidroeléctricas sobre el río Mantaro.",
+   "f": {
+    "Clase": "Energético"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ]
+   ]
+  },
+  {
+   "t": "rec",
+   "n": "Mar peruano y Corriente de Humboldt",
+   "d": [
+    "Piura",
+    "Lima",
+    "Ica",
+    "Arequipa"
+   ],
+   "ll": [
+    -12.5,
+    -77.9
+   ],
+   "s": "Aguas frías y productivas que sustentan pesquerías y aves marinas.",
+   "f": {
+    "Clase": "Costero y marino",
+    "Gestión": "IMARPE (investigación), PRODUCE"
+   },
+   "src": [
+    [
+     "IMARPE",
+     "https://www.imarpe.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "eco",
+   "n": "Amazonía y selva tropical",
+   "d": [],
+   "ll": [
+    -5,
+    -74
+   ],
+   "s": "Bosque húmedo tropical de gran diversidad.",
+   "f": {
+    "Fuente": "Mapa Nacional de Ecosistemas (MINAM)"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ],
+    [
+     "SINIA",
+     "https://sinia.minam.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "eco",
+   "n": "Bosques secos",
+   "d": [],
+   "ll": [
+    -4.8,
+    -80.3
+   ],
+   "s": "Algarrobales y zapotales del norte (Tumbes, Piura, Lambayeque).",
+   "f": {
+    "Fuente": "Mapa Nacional de Ecosistemas (MINAM)"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ],
+    [
+     "SINIA",
+     "https://sinia.minam.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "eco",
+   "n": "Bosques montanos",
+   "d": [],
+   "ll": [
+    -7,
+    -77.5
+   ],
+   "s": "Bosques nublados en laderas andinas orientales.",
+   "f": {
+    "Fuente": "Mapa Nacional de Ecosistemas (MINAM)"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ],
+    [
+     "SINIA",
+     "https://sinia.minam.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "eco",
+   "n": "Jalcas y páramos",
+   "d": [],
+   "ll": [
+    -6.5,
+    -79
+   ],
+   "s": "Pastizales altoandinos del norte.",
+   "f": {
+    "Fuente": "Mapa Nacional de Ecosistemas (MINAM)"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ],
+    [
+     "SINIA",
+     "https://sinia.minam.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "eco",
+   "n": "Punas y bofedales",
+   "d": [],
+   "ll": [
+    -14.5,
+    -70.5
+   ],
+   "s": "Pajonales y humedales altoandinos.",
+   "f": {
+    "Fuente": "Mapa Nacional de Ecosistemas (MINAM)"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ],
+    [
+     "SINIA",
+     "https://sinia.minam.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "eco",
+   "n": "Desiertos costeros",
+   "d": [],
+   "ll": [
+    -14,
+    -75.8
+   ],
+   "s": "Franja árida del Pacífico.",
+   "f": {
+    "Fuente": "Mapa Nacional de Ecosistemas (MINAM)"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ],
+    [
+     "SINIA",
+     "https://sinia.minam.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "eco",
+   "n": "Lomas costeras",
+   "d": [],
+   "ll": [
+    -11.4,
+    -77.4
+   ],
+   "s": "Vegetación estacional por neblina.",
+   "f": {
+    "Fuente": "Mapa Nacional de Ecosistemas (MINAM)"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ],
+    [
+     "SINIA",
+     "https://sinia.minam.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "eco",
+   "n": "Manglares",
+   "d": [],
+   "ll": [
+    -3.5,
+    -80.4
+   ],
+   "s": "En Tumbes (Santuario Nacional Los Manglares de Tumbes).",
+   "f": {
+    "Fuente": "Mapa Nacional de Ecosistemas (MINAM)"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ],
+    [
+     "SINIA",
+     "https://sinia.minam.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "eco",
+   "n": "Humedales",
+   "d": [],
+   "ll": [
+    -12.1,
+    -77
+   ],
+   "s": "Ej.: Pantanos de Villa (Lima).",
+   "f": {
+    "Fuente": "Mapa Nacional de Ecosistemas (MINAM)"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ],
+    [
+     "SINIA",
+     "https://sinia.minam.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "eco",
+   "n": "Ecosistemas marinos",
+   "d": [],
+   "ll": [
+    -13,
+    -77
+   ],
+   "s": "Corriente de Humboldt.",
+   "f": {
+    "Fuente": "Mapa Nacional de Ecosistemas (MINAM)"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ],
+    [
+     "SINIA",
+     "https://sinia.minam.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "eco",
+   "n": "Glaciares y altoandino",
+   "d": [],
+   "ll": [
+    -9.5,
+    -77.3
+   ],
+   "s": "Nevados tropicales.",
+   "f": {
+    "Fuente": "Mapa Nacional de Ecosistemas (MINAM)"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ],
+    [
+     "SINIA",
+     "https://sinia.minam.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "tur",
+   "n": "Laguna 69",
+   "d": [
+    "Áncash"
+   ],
+   "ll": [
+    -9,
+    -77.3
+   ],
+   "s": "Laguna glaciar con caminata de alta montaña. Dentro del Parque Nacional Huascarán (ANP).",
+   "f": {
+    "¿Es ANP?": "Sí – P.N. Huascarán",
+    "Recomendaciones": "Aclimatación y respeto al plan de uso"
+   },
+   "src": [
+    [
+     "SERNANP",
+     "https://www.gob.pe/sernanp"
+    ]
+   ]
+  },
+  {
+   "t": "tur",
+   "n": "Catarata de Gocta",
+   "d": [
+    "Amazonas"
+   ],
+   "ll": [
+    -6.02,
+    -77.89
+   ],
+   "s": "Una de las cataratas más altas del Perú; visita comunitaria. Fuera de ANP según lo conocido; confirmar estatus.",
+   "f": {
+    "¿Es ANP?": "No (por confirmar)"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ]
+   ]
+  },
+  {
+   "t": "tur",
+   "n": "Montaña de Colores (Vinicunca)",
+   "d": [
+    "Cusco"
+   ],
+   "ll": [
+    -13.87,
+    -71.3
+   ],
+   "s": "Atractivo paisajístico de altura gestionado por comunidades locales.",
+   "f": {
+    "¿Es ANP?": "No (por confirmar)"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ]
+   ]
+  },
+  {
+   "t": "tur",
+   "n": "Huacachina",
+   "d": [
+    "Ica"
+   ],
+   "ll": [
+    -14.09,
+    -75.76
+   ],
+   "s": "Oasis rodeado de dunas.",
+   "f": {
+    "¿Es ANP?": "No (por confirmar)"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ]
+   ]
+  },
+  {
+   "t": "ley",
+   "n": "Ley N.° 28611 – Ley General del Ambiente",
+   "d": [],
+   "ll": null,
+   "s": "Marco central de la política ambiental.",
+   "f": {
+    "Publicación": "15/10/2005",
+    "Ámbito": "Nacional",
+    "Texto": "Consultar texto vigente y modificatorias en SPIJ / El Peruano"
+   },
+   "src": [
+    [
+     "SPIJ (normas oficiales)",
+     "https://spij.minjus.gob.pe"
+    ],
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ]
+   ]
+  },
+  {
+   "t": "ley",
+   "n": "Ley N.° 26834 – Ley de Áreas Naturales Protegidas",
+   "d": [],
+   "ll": null,
+   "s": "Regula el SINANPE y sus categorías.",
+   "f": {
+    "Publicación": "04/07/1997",
+    "Ámbito": "Nacional",
+    "Texto": "Consultar texto vigente y modificatorias en SPIJ / El Peruano"
+   },
+   "src": [
+    [
+     "SPIJ (normas oficiales)",
+     "https://spij.minjus.gob.pe"
+    ],
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ]
+   ]
+  },
+  {
+   "t": "ley",
+   "n": "Ley N.° 29763 – Ley Forestal y de Fauna Silvestre",
+   "d": [],
+   "ll": null,
+   "s": "Gestión de bosques y fauna silvestre.",
+   "f": {
+    "Publicación": "22/07/2011",
+    "Ámbito": "Nacional",
+    "Texto": "Consultar texto vigente y modificatorias en SPIJ / El Peruano"
+   },
+   "src": [
+    [
+     "SPIJ (normas oficiales)",
+     "https://spij.minjus.gob.pe"
+    ],
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ]
+   ]
+  },
+  {
+   "t": "ley",
+   "n": "Ley N.° 29338 – Ley de Recursos Hídricos",
+   "d": [],
+   "ll": null,
+   "s": "Uso y gestión integrada del agua.",
+   "f": {
+    "Publicación": "31/03/2009",
+    "Ámbito": "Nacional",
+    "Texto": "Consultar texto vigente y modificatorias en SPIJ / El Peruano"
+   },
+   "src": [
+    [
+     "SPIJ (normas oficiales)",
+     "https://spij.minjus.gob.pe"
+    ],
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ]
+   ]
+  },
+  {
+   "t": "ley",
+   "n": "Ley N.° 27446 – Ley del SEIA",
+   "d": [],
+   "ll": null,
+   "s": "Evaluación de impacto ambiental de proyectos.",
+   "f": {
+    "Publicación": "23/04/2001",
+    "Ámbito": "Nacional",
+    "Texto": "Consultar texto vigente y modificatorias en SPIJ / El Peruano"
+   },
+   "src": [
+    [
+     "SPIJ (normas oficiales)",
+     "https://spij.minjus.gob.pe"
+    ],
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ]
+   ]
+  },
+  {
+   "t": "ley",
+   "n": "Ley N.° 26839 – Ley de Diversidad Biológica",
+   "d": [],
+   "ll": null,
+   "s": "Conservación y uso sostenible de la biodiversidad.",
+   "f": {
+    "Publicación": "16/07/1997",
+    "Ámbito": "Nacional",
+    "Texto": "Consultar texto vigente y modificatorias en SPIJ / El Peruano"
+   },
+   "src": [
+    [
+     "SPIJ (normas oficiales)",
+     "https://spij.minjus.gob.pe"
+    ],
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ]
+   ]
+  },
+  {
+   "t": "ley",
+   "n": "Constitución Política del Perú (arts. 66–69)",
+   "d": [],
+   "ll": null,
+   "s": "El Título III, Capítulo II trata de los recursos naturales (art. 66, patrimonio de la Nación) y el ambiente. Verificar artículos en el texto oficial.",
+   "f": {
+    "Ámbito": "Nacional"
+   },
+   "src": [
+    [
+     "Congreso del Perú",
+     "https://www.congreso.gob.pe/constitucionyreglamento/"
+    ]
+   ]
+  },
+  {
+   "t": "ins",
+   "n": "MINAM – Ministerio del Ambiente",
+   "d": [],
+   "ll": null,
+   "s": "Rector de la política ambiental nacional.",
+   "f": {
+    "Web": "Ver enlace oficial"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ]
+   ]
+  },
+  {
+   "t": "ins",
+   "n": "SERNANP",
+   "d": [],
+   "ll": null,
+   "s": "Administra el SINANPE.",
+   "f": {
+    "Web": "Ver enlace oficial"
+   },
+   "src": [
+    [
+     "SERNANP",
+     "https://www.gob.pe/sernanp"
+    ]
+   ]
+  },
+  {
+   "t": "ins",
+   "n": "SERFOR",
+   "d": [],
+   "ll": null,
+   "s": "Autoridad forestal y de fauna silvestre.",
+   "f": {
+    "Web": "Ver enlace oficial"
+   },
+   "src": [
+    [
+     "SERFOR",
+     "https://www.gob.pe/serfor"
+    ]
+   ]
+  },
+  {
+   "t": "ins",
+   "n": "OEFA",
+   "d": [],
+   "ll": null,
+   "s": "Evaluación y fiscalización ambiental.",
+   "f": {
+    "Web": "Ver enlace oficial"
+   },
+   "src": [
+    [
+     "OEFA",
+     "https://www.gob.pe/oefa"
+    ]
+   ]
+  },
+  {
+   "t": "ins",
+   "n": "ANA – Autoridad Nacional del Agua",
+   "d": [],
+   "ll": null,
+   "s": "Gestión de recursos hídricos.",
+   "f": {
+    "Web": "Ver enlace oficial"
+   },
+   "src": [
+    [
+     "ANA",
+     "https://www.gob.pe/ana"
+    ]
+   ]
+  },
+  {
+   "t": "ins",
+   "n": "SENACE",
+   "d": [],
+   "ll": null,
+   "s": "Certificación ambiental de proyectos de inversión.",
+   "f": {
+    "Web": "Ver enlace oficial"
+   },
+   "src": [
+    [
+     "SENACE",
+     "https://www.gob.pe/senace"
+    ]
+   ]
+  },
+  {
+   "t": "ins",
+   "n": "IIAP",
+   "d": [],
+   "ll": null,
+   "s": "Investigación de la Amazonía peruana.",
+   "f": {
+    "Web": "Ver enlace oficial"
+   },
+   "src": [
+    [
+     "IIAP",
+     "https://www.iiap.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "ins",
+   "n": "INGEMMET",
+   "d": [],
+   "ll": null,
+   "s": "Información geológica, minera y de peligros.",
+   "f": {
+    "Web": "Ver enlace oficial"
+   },
+   "src": [
+    [
+     "INGEMMET",
+     "https://www.gob.pe/ingemmet"
+    ]
+   ]
+  },
+  {
+   "t": "ins",
+   "n": "SENAMHI",
+   "d": [],
+   "ll": null,
+   "s": "Servicio meteorológico e hidrológico.",
+   "f": {
+    "Web": "Ver enlace oficial"
+   },
+   "src": [
+    [
+     "SENAMHI",
+     "https://www.senamhi.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "ins",
+   "n": "IMARPE",
+   "d": [],
+   "ll": null,
+   "s": "Investigación del mar peruano.",
+   "f": {
+    "Web": "Ver enlace oficial"
+   },
+   "src": [
+    [
+     "IMARPE",
+     "https://www.imarpe.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "pro",
+   "n": "Deforestación",
+   "d": [
+    "Loreto",
+    "Ucayali",
+    "San Martín",
+    "Huánuco",
+    "Madre de Dios"
+   ],
+   "ll": null,
+   "s": "Pérdida de bosque amazónico por agricultura, ganadería y tala. Monitoreo en Geobosques.",
+   "f": {
+    "Regiones": "Loreto, Ucayali, San Martín, Huánuco, Madre de Dios"
+   },
+   "src": [
+    [
+     "Geobosques",
+     "https://geobosques.minam.gob.pe"
+    ],
+    [
+     "SERFOR",
+     "https://www.gob.pe/serfor"
+    ]
+   ]
+  },
+  {
+   "t": "pro",
+   "n": "Minería ilegal",
+   "d": [
+    "Madre de Dios"
+   ],
+   "ll": null,
+   "s": "Contaminación por mercurio y destrucción de bosque. Otras regiones también reportan casos.",
+   "f": {
+    "Regiones": "Madre de Dios"
+   },
+   "src": [
+    [
+     "OEFA",
+     "https://www.gob.pe/oefa"
+    ],
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ]
+   ]
+  },
+  {
+   "t": "pro",
+   "n": "Retroceso de glaciares",
+   "d": [
+    "Áncash",
+    "Cusco",
+    "Arequipa"
+   ],
+   "ll": null,
+   "s": "Pérdida de superficie glaciar; afecta el agua.",
+   "f": {
+    "Regiones": "Áncash, Cusco, Arequipa"
+   },
+   "src": [
+    [
+     "ANA",
+     "https://www.gob.pe/ana"
+    ],
+    [
+     "SENAMHI",
+     "https://www.senamhi.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "pro",
+   "n": "Contaminación del agua",
+   "d": [],
+   "ll": null,
+   "s": "Vertimientos y residuos; fiscalización de OEFA y ANA.",
+   "f": {
+    "Regiones": "Varias; ver fuente oficial"
+   },
+   "src": [
+    [
+     "ANA",
+     "https://www.gob.pe/ana"
+    ],
+    [
+     "OEFA",
+     "https://www.gob.pe/oefa"
+    ]
+   ]
+  },
+  {
+   "t": "pro",
+   "n": "Contaminación del aire",
+   "d": [
+    "Lima"
+   ],
+   "ll": null,
+   "s": "Monitoreo de calidad del aire por SENAMHI.",
+   "f": {
+    "Regiones": "Lima"
+   },
+   "src": [
+    [
+     "SENAMHI",
+     "https://www.senamhi.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "pro",
+   "n": "Tráfico ilegal de especies",
+   "d": [],
+   "ll": null,
+   "s": "Extracción y comercio ilegal de fauna y flora.",
+   "f": {
+    "Regiones": "Varias; ver fuente oficial"
+   },
+   "src": [
+    [
+     "SERFOR",
+     "https://www.gob.pe/serfor"
+    ]
+   ]
+  },
+  {
+   "t": "pro",
+   "n": "Incendios forestales",
+   "d": [],
+   "ll": null,
+   "s": "Frecuentes en estación seca andina y amazónica.",
+   "f": {
+    "Regiones": "Varias; ver fuente oficial"
+   },
+   "src": [
+    [
+     "SERFOR",
+     "https://www.gob.pe/serfor"
+    ]
+   ]
+  },
+  {
+   "t": "pro",
+   "n": "Residuos sólidos",
+   "d": [],
+   "ll": null,
+   "s": "Gestión inadecuada en ciudades y cuerpos de agua.",
+   "f": {
+    "Regiones": "Varias; ver fuente oficial"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ]
+   ]
+  },
+  {
+   "t": "pro",
+   "n": "Cambio climático",
+   "d": [],
+   "ll": null,
+   "s": "Alteración de lluvias, glaciares y ecosistemas.",
+   "f": {
+    "Regiones": "Varias; ver fuente oficial"
+   },
+   "src": [
+    [
+     "MINAM",
+     "https://www.gob.pe/minam"
+    ],
+    [
+     "SENAMHI",
+     "https://www.senamhi.gob.pe"
+    ]
+   ]
+  },
+  {
+   "t": "pro",
+   "n": "Pérdida de biodiversidad / sobreexplotación / degradación de suelos",
+   "d": [],
+   "ll": null,
+   "s": "Datos por tema en SINIA.",
+   "f": {
+    "Regiones": "Varias; ver fuente oficial"
+   },
+   "src": [
+    [
+     "SINIA",
+     "https://sinia.minam.gob.pe"
+    ]
+   ]
+  }
+ ]
+}
